@@ -73,7 +73,13 @@ By using and applying the steps taught within the course we can produce these de
 ### R
 #### Refer to the 2 code files for actual code </br>
 
-  1. Loaded libraries that will be used.
+  1. Loaded libraries that will be used. <br/>
+
+    - tidyverse
+    - lubridate
+    - hms
+    - data. table
+
   2. Uploaded the data from the Prepare step and saved them as seperate data frames.
   3. Merged all the files into one to create a year view.<br/>
   
@@ -113,3 +119,11 @@ By using and applying the steps taught within the course we can produce these de
     - Ride time per month by member type
     - Ride time per season by member type
     
+  9. Created another R code for analyzing the data to put into Tableau for visualizations and dashboards.
+
+    - Transformations were kept the same
+    - Exported the data into a .csv file to upload
+
+
+## 4. Share - Creating visulizations
+For this section I had already done the visualizations in the workbooks for Excel so this will focus on the R code that was uploaded to Tableau.
