@@ -13,7 +13,7 @@ casual riders would buy a membership, and how digital media could affect their m
 analyzing the Cyclistic historical bike trip data to identify trends.
 
 
-Goal of the project is to answer this question:
+## Goal of the project is to answer this question:
 How do annual members and casual riders use Cyclistic bikes
 differently?
 
@@ -23,7 +23,7 @@ You will produce a report with the following deliverables:
 3. Documentation of any cleaning or manipulation of data
 4. A summary of your analysis
 5. Supporting visualizations and key findings
-6. Your top three recommendations based on your analysis
+6. Your top three recommendations based on your analysis <br/>
 
 
   
@@ -68,5 +68,48 @@ By using and applying the steps taught within the course we can produce these de
     - Rides by bike type
     
 #### 3. For every month I created pivot tables and charts according to the metrics above.
-      
-      
+    -Refer to Excel Release for the files mentioned
+
+### R
+#### Refer to the 2 code files for actual code </br>
+
+  1. Loaded libraries that will be used.
+  2. Uploaded the data from the Prepare step and saved them as seperate data frames.
+  3. Merged all the files into one to create a year view.<br/>
+  
+  4. Created a new data frame from the year view called last_annum.
+  5. Created new columns for: <br/>
+
+    - ride_length
+    - day_of_week
+    - month
+    - year
+    - time - converted into HH:MM:SS
+    - Hour
+    - Season (Fall, Winter, Summer, Spring)
+    - time_of_day (Morning, Afternoon, Evening, Night)
+
+  6. Cleaned the data: <br/>
+
+    - Omitted any NA value data
+    - Removed duplicate rows
+    - Removed negative ride times or 0's
+
+  7. Calculated total rides for: <br/>
+
+    - Last cycle year
+    - Last cycle year by member type
+    - By every hour
+    - By times of day per member type
+    - By season per member type
+
+  8. Calculated average rides for: <br/>
+
+    - Ride time by member type
+    - Ride time per hour by member type
+    - Ride time per time of day by member type
+    - Ride time per weekday by member type
+    - Ride time per day of month by member type
+    - Ride time per month by member type
+    - Ride time per season by member type
+    
