@@ -35,7 +35,7 @@ By using and applying the steps taught within the course we can produce these de
 
    Find data and trends from historic data to create a marketing strategy to convert casual riders to annual members.
 
-  
+  <br />
 ## 2. Prepare - Retrieve relavent data and organize accordingly
  
    Downloaded the data for the previous year from https://divvy-tripdata.s3.amazonaws.com/index.html
