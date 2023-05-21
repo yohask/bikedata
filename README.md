@@ -51,8 +51,8 @@ By using and applying the steps taught within the course we can produce these de
 
 ### Excel
 #### 1. I began by adding 2 additional columns to all the months: <br/>
-    - ride_length <br/>
-    - day_of_week <br/>
+    - ride_length
+    - day_of_week
   
   a. ride_length was calculated by subtracting the ended_at column by the started_at columnm. <br/>
       - This was then formatted as a time value <br/>
@@ -66,6 +66,7 @@ By using and applying the steps taught within the course we can produce these de
     - Rides per hour
     - Rides per day
     - Rides by bike type
-
+    
+#### 3. For every month I created pivot tables and charts according to the metrics above.
       
       
