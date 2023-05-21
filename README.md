@@ -73,7 +73,13 @@ By using and applying the steps taught within the course we can produce these de
 ### R
 #### Refer to the 2 code files for actual code </br>
 
-  1. Loaded libraries that will be used.
+  1. Loaded libraries that will be used. <br/>
+
+    - tidyverse
+    - lubridate
+    - hms
+    - data. table
+     
   2. Uploaded the data from the Prepare step and saved them as seperate data frames.
   3. Merged all the files into one to create a year view.<br/>
   
