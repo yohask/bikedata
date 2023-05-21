@@ -1,6 +1,6 @@
 # bikedata
 
-Google Data Analytics Capstone Project
+#Google Data Analytics Capstone Project#
 Data retrieved from https://divvy-tripdata.s3.amazonaws.com/index.html 
 
 <b>About the company<b>
@@ -29,7 +29,7 @@ You will produce a report with the following deliverables:
 
   
 
-Process  
+Process
 By using and applying the steps taught within the course we can produce these deliverables
 
 1. Ask - Identify the business task based on the question we were given.
