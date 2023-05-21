@@ -42,4 +42,5 @@ By using and applying the steps taught within the course we can produce these de
     -Sorted and organized into folders for ease of viewing and access
     -Created a backup for the originals
 
-
+## 3. Process - Process and prepare the data for analysis
+fsdfsdf
