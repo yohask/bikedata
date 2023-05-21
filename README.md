@@ -55,5 +55,6 @@ By using and applying the steps taught within the course we can produce these de
   - day_of_week
   ride_length was calculated by subtracting the ended_at column by the started_at columnm.
     - This was then formatted as a time value
+    
   day_of_week was calculated using the WEEKDAY function with the started_at column.
     - This function was then nested in a text format function to have it show the weekday instead of an integer
