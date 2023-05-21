@@ -51,11 +51,11 @@ By using and applying the steps taught within the course we can produce these de
 
 ### Excel
 1. I began by adding 2 additional columns to all the months: <br/>
-    -ride_length
-    -day_of_week
+    -ride_length <br/>
+    -day_of_week <br/>
   
-  ride_length was calculated by subtracting the ended_at column by the started_at columnm.
-    - This was then formatted as a time value
+  ride_length was calculated by subtracting the ended_at column by the started_at columnm. <br/>
+    - This was then formatted as a time value <br/>
     
-  day_of_week was calculated using the WEEKDAY function with the started_at column.
+  day_of_week was calculated using the WEEKDAY function with the started_at column. <br/>
     - This function was then nested in a text format function to have it show the weekday instead of an integer
