@@ -28,10 +28,19 @@ You will produce a report with the following deliverables:
 
 
   
-  
+
 Process  
 By using and applying the steps taught within the course we can produce these deliverables
 
 1. Ask - Identify the business task based on the question we were given.
 
-We can hypothesize that the company in question is looking to grow and increase their member base.
+Find data and trends from historic data to create a marketing strategy to convert casual riders to annual members.
+
+  
+2. Prepare - Retrieve relavent data and organize accordingly
+ 
+-Downloaded the data for the previous year from https://divvy-tripdata.s3.amazonaws.com/index.html
+-Sorted and organized into folders for ease of viewing and access
+-Created a backup for the originals
+
+  
