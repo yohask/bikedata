@@ -33,14 +33,14 @@ By using and applying the steps taught within the course we can produce these de
 
 ## 1. Ask - Identify the business task based on the question we were given.
 
-    Find data and trends from historic data to create a marketing strategy to convert casual riders to annual members.
+   Find data and trends from historic data to create a marketing strategy to convert casual riders to annual members.
 
   
 ## 2. Prepare - Retrieve relavent data and organize accordingly
  
-    -Downloaded the data for the previous year from https://divvy-tripdata.s3.amazonaws.com/index.html
-    -Sorted and organized into folders for ease of viewing and access
-    -Created a backup for the originals
+   Downloaded the data for the previous year from https://divvy-tripdata.s3.amazonaws.com/index.html
+   Sorted and organized into folders for ease of viewing and access
+   Created a backup for the originals
 
 ## 3. Process - Process and prepare the data for analysis
 fsdfsdf
