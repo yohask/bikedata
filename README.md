@@ -12,7 +12,10 @@ do that, however, the marketing analyst team needs to better understand how annu
 casual riders would buy a membership, and how digital media could affect their marketing tactics. To do this our comapny is
 analyzing the Cyclistic historical bike trip data to identify trends.
 
-
+# Final Files
+ * [R Final Analysis](https://github.com/yohask/bikedata/blob/main/Code%20to%20transform%20data%20in%20R.txt)
+ * [R Tableau Analysis](https://github.com/yohask/bikedata/blob/main/Prep%20Data%20for%20Tableau.txt)
+ 
 ## Goal of the project is to answer this question:
 How do annual members and casual riders use Cyclistic bikes
 differently?
@@ -67,8 +70,10 @@ By using and applying the steps taught within the course we can produce these de
     - Rides per day
     - Rides by bike type
     
-#### 3. For every month I created pivot tables and charts according to the metrics above.
-    -Refer to Excel Release for the files mentioned
+#### 3. For every month I created pivot tables and charts according to the metrics above.<br/>
+
+  [Excel Workbooks with visualizations](https://github.com/yohask/bikedata/releases/tag/v1)
+
 
 ### R
 #### Refer to the 2 code files for actual code </br>
@@ -122,6 +127,7 @@ By using and applying the steps taught within the course we can produce these de
   9. Created another R code for analyzing the data to put into Tableau for visualizations and dashboards.
 
     - Transformations were kept the same
+    - Changed months to be the name instead of integer
     - Exported the data into a .csv file to upload
 
 
