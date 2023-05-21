@@ -53,6 +53,7 @@ By using and applying the steps taught within the course we can produce these de
 1. I began by adding 2 additional columns to all the months
   -ride_length
   -day_of_week
+  
   ride_length was calculated by subtracting the ended_at column by the started_at columnm.
     - This was then formatted as a time value
     
