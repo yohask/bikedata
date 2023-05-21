@@ -58,4 +58,14 @@ By using and applying the steps taught within the course we can produce these de
       - This was then formatted as a time value <br/>
     
   b. day_of_week was calculated using the WEEKDAY function with the started_at column. <br/>
-      - This function was then nested in a TEXT function to format it to show the weekday instead of an integer
+      - This function was then nested in a TEXT function to format it to show the weekday instead of an integer <br/>
+      
+2. Came up with metrics to answer the business task at hand.<br/>
+    - total number of rides per weekday
+    - Average length of rides per weekday by the member types
+    - Rides per hour
+    - Rides per day
+    - Rides by bike type
+
+      
+      
