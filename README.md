@@ -29,7 +29,7 @@ You will produce a report with the following deliverables:
 
   
   
-  
+Process  
 By using and applying the steps taught within the course we can produce these deliverables
 
 1. Ask - Identify the business task based on the question we were given.
