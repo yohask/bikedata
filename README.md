@@ -50,9 +50,9 @@ By using and applying the steps taught within the course we can produce these de
   R would show programming skills as well as getting it ready for visulization tools such as Tableau.
 
 ### Excel
-1. I began by adding 2 additional columns to all the months
-  -ride_length
-  -day_of_week
+1. I began by adding 2 additional columns to all the months:
+    -ride_length
+    -day_of_week
   
   ride_length was calculated by subtracting the ended_at column by the started_at columnm.
     - This was then formatted as a time value
