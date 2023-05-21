@@ -50,7 +50,7 @@ By using and applying the steps taught within the course we can produce these de
   R would show programming skills as well as getting it ready for visulization tools such as Tableau.
 
 ### Excel
-##### 1. I began by adding 2 additional columns to all the months: <br/>
+#### 1. I began by adding 2 additional columns to all the months: <br/>
     - ride_length <br/>
     - day_of_week <br/>
   
@@ -60,7 +60,7 @@ By using and applying the steps taught within the course we can produce these de
   b. day_of_week was calculated using the WEEKDAY function with the started_at column. <br/>
       - This function was then nested in a TEXT function to format it to show the weekday instead of an integer <br/>
       
-##### 2. Came up with metrics to answer the business task at hand.<br/>
+#### 2. Came up with metrics to answer the business task at hand.<br/>
     - total number of rides per weekday
     - Average length of rides per weekday by the member types
     - Rides per hour
