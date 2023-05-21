@@ -33,14 +33,27 @@ By using and applying the steps taught within the course we can produce these de
 
 ## 1. Ask - Identify the business task based on the question we were given.
 
-   Find data and trends from historic data to create a marketing strategy to convert casual riders to annual members.
+   * Find data and trends from historic data to create a marketing strategy to convert casual riders to annual members.
 
-  <br />
+
 ## 2. Prepare - Retrieve relavent data and organize accordingly
  
    Downloaded the data for the previous year from https://divvy-tripdata.s3.amazonaws.com/index.html
-   Sorted and organized into folders for ease of viewing and access
-   Created a backup for the originals
+   April 2022 - April 2023.
+   Sorted and organized into folders for ease of viewing and access.
+   Created a backup for the originals.
 
 ## 3. Process - Process and prepare the data for analysis
-fsdfsdf
+
+  For this section I wanted to do use both Excel and R.
+  Excel would demonstrate cleaning as well as utilization of visualization tools and pivot tables.
+  R would show programming skills as well as getting it ready for visulization tools such as Tableau.
+
+### Excel
+1. I began by adding 2 additional columns to all the months
+  - ride_length
+  - day_of_week
+  ride_length was calculated by subtracting the ended_at column by the started_at columnm.
+    - This was then formatted as a time value
+  day_of_week was calculated using the WEEKDAY function with the started_at column.
+    - This function was then nested in a text format function to have it show the weekday instead of an integer
