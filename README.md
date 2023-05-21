@@ -14,7 +14,7 @@ casual riders would buy a membership, and how digital media could affect their m
 analyzing the Cyclistic historical bike trip data to identify trends.
 
 
-Goal of the Project was to answer this question:
+Goal of the project is to answer this question:
 How do annual members and casual riders use Cyclistic bikes
 differently?
 
@@ -27,6 +27,9 @@ You will produce a report with the following deliverables:
 6. Your top three recommendations based on your analysis
 
 
+  
+  
+  
 By using and applying the steps taught within the course we can produce these deliverables
 
 1. Ask - Identify the business task based on the question we were given.
