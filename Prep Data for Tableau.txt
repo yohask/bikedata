@@ -18,10 +18,9 @@ dec22 <- read_csv("202212-divvy-tripdata.csv")
 jan23 <- read_csv("202301-divvy-tripdata.csv") 
 feb23 <- read_csv("202302-divvy-tripdata.csv") 
 mar23 <- read_csv("202303-divvy-tripdata.csv") 
-apr23 <- read_csv("202304-divvy-tripdata.csv") 
 
 #combine all files into one year#
-last_cycle <- rbind(apr22, may22, jun22, jul22, aug22, sep22, oct22, nov22, dec22, jan23, feb23, mar23, apr23)
+last_cycle <- rbind(apr22, may22, jun22, jul22, aug22, sep22, oct22, nov22, dec22, jan23, feb23, mar23)
 
 #make file to add new columns#
 last_annum <- last_cycle
@@ -113,6 +112,6 @@ View(last_annum)
 #get data read for tableau -import to csv#
 last_annum_tableau <- last_annum
 last_annum_tableau <- last_annum_tableau %>%
-     select(-c(ride_id, start_station_id, end_station_id,start_lat,start_lng,end_lat,end_lng))
+     select(-c(ride_id, start_station_id, end_station_id))
 
 fwrite(last_annum_tableau, "last_annum_data.csv")
