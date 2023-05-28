@@ -68,10 +68,12 @@ By using and applying the steps taught within the course we can produce these de
     - Rides by bike type
     
 #### 3. For every month I created pivot tables and charts according to the metrics above.
-    -Refer to Excel Release for the files mentioned
+  [Refer to Excel Release for the files mentioned](https://github.com/yohask/bikedata/releases/tag/v1)
 
 ### R
 #### Refer to the 2 code files for actual code </br>
+[Data cleaning/analysis in R](https://github.com/yohask/bikedata/blob/main/Code%20to%20transform%20data%20in%20R.txt) <br/>
+[Data cleaning and prep for Tableau](https://github.com/yohask/bikedata/blob/main/Prep%20Data%20for%20Tableau.txt) <br/>
 
   1. Loaded libraries that will be used. <br/>
 
@@ -127,3 +129,30 @@ By using and applying the steps taught within the course we can produce these de
 
 ## 4. Share - Creating visulizations
 For this section I had already done the visualizations in the workbooks for Excel so this will focus on the R code that was uploaded to Tableau.
+
+### R
+For the R code it was kept the same for the transformation of the data, but this time I kept the starting and ending latitudes and longitudes. I then converted the data frame into a CSV file to be used in Tableau. <br />
+
+### Tableau
+[Link to Tableau Dashboard](https://public.tableau.com/app/profile/hunter.su5538/viz/GoogleDataAnalyticsCapstone_16852832168870/Dashboard1)
+
+## 5. Act - Final Conclusions
+Back to answering the business task that we determined at the beginning: <br/>
+
+  - Find data and trends from historic data to create a marketing strategy to convert casual riders to annual members. <br/>
+  
+  Through my analysis I found that these would be the best steps for this:
+-  Launch marketing campaigns around the busiest times of the year - July and August.
+- Increase the amount of bike stations to more neighbourhoods to introduce Cyclistic as a form of transportation.
+- Introduce lower prices for popular bike stations.
+
+# Conclusion
+This was a very rewarding experience to go through as I got to learn about all parts of data analytics and got hands on experience with coding and creating visualizations.
+### Next steps: 
+I still beleive that I have a great deal to learn:
+- Data visualizations need to be improved.
+  - Experiment with colour palletes
+  - Create better looking dashboards
+  - More exposure needed
+- Code needs to be more optimized.
+
